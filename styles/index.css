@@ -1,0 +1,87 @@
+/* nav related style */
+*{
+    margin: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    margin: 0px 150px;
+}
+nav h2{
+    font-weight:800;
+    font-size: 50px;
+}
+nav >ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+    color: #474747;
+}
+.primary-text{
+    color:#FD6E0A ;
+}
+.primary-btn{
+    background-color:#FD6E0A ;
+    color: white;
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+}
+
+/* header style */
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.banner-description{
+    margin-right: 200px;
+    margin-left: 40px;
+}
+.banner-title{
+    color: #757575;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.banner-name{
+    color:#474747 ;
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+.banner-details{
+    color: #757575;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.banner-contact{
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.developer-pic{
+    height: 450px;
+    width: 70px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+}
+.profile-pic{
+    height: 400px;
+    width: 300px;
+    border: none;
+    box-shadow: 5px 5px 10px 5px rgb(204, 197, 197);
+    margin-right: 50px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
