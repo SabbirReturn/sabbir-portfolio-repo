@@ -85,5 +85,12 @@ nav li{
     margin-right: 100px;
     border-radius: 10px;
     background-image: url('../assets/images/header_bg.png');
+
+}
+.about{
+    width: 1150px;
+    text-align: center;
+    background-color: #FFF8F3;
+    margin: 130px;
     
 }
