@@ -84,4 +84,6 @@ nav li{
     margin-right: 50px;
     margin-right: 100px;
     border-radius: 10px;
+    background-image: url('../assets/images/header_bg.png');
+    
 }
