@@ -120,7 +120,7 @@ nav li{
     width: 1100px;
     text-align: center;
     /* background-color: #FFF8F3; */
-    margin: 0px 90px 50px 90px; 
+    margin: 0px 90px 0px 90px; 
 }
 .using-language{
     display: flex;
@@ -143,4 +143,36 @@ nav li{
 }
 .language-description{
     color: #757575 ;
+}
+.resume-title{
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+.resume-education{
+    display: flex;
+    width: 1000px;
+    margin-left: 250px;
+    background-color: #FFF8F3;
+    padding: 20px;
+}
+.resume-description{
+    margin: 20px 10px 10px 10px;
+    box-shadow: 10px 10px 10px 10px #b5a89e ;
+    padding: 20px;
+    border-radius: 10px;
+}
+.resume-education hr{
+    margin-top: 20px;
+}
+.resume-name{
+    color:#474747 ;
+    margin-bottom: 5px;
+}
+.resume-institute{
+    color: #757575;
+    margin-bottom: 10px;
+}
+.resume-details{
+    color: #757575;
 }
