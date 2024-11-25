@@ -149,16 +149,18 @@ nav li{
     margin-bottom: 10px;
     
 }
-.resume-education{
-    display: flex;
+.resume{
+    background-color: #FFF8F3;
     width: 1000px;
     margin-left: 250px;
-    background-color: #FFF8F3;
     padding: 20px;
+}
+.resume-education{
+    display: flex;  
 }
 .resume-description{
     margin: 20px 10px 10px 10px;
-    box-shadow: 10px 10px 10px 10px #b5a89e ;
+    box-shadow: 10px 10px 10px 10px  #b5a89e ;
     padding: 20px;
     border-radius: 10px;
 }
