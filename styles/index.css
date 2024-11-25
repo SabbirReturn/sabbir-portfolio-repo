@@ -178,3 +178,64 @@ nav li{
 .resume-details{
     color: #757575;
 }
+.second-btn{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.second-btn >button{
+    height: 50px;
+    width: 150px;
+    color: white;
+    background-color: #FD6E0A;
+    border: none;
+    border-radius: 10px;
+}
+.footer-description{
+    display: flex;
+    justify-content: space-between;
+    width: 880px;
+    background-color: rgb(244, 234, 220);
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding: 80px;
+}
+.footer-title{
+    margin-bottom: 10px;
+}
+.footer-content{
+    width: 500px;
+    margin-bottom: 30px
+}
+.footer-icon img{
+    margin-right: 20px;
+}
+.submit-btn{
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background-color: #FD6E0A;
+    color: white;
+    margin-top: 10px;
+}
+.text{
+    height: 30px;
+    width: 200px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+.email{
+    height: 30px;
+    width: 200px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+.textarea{
+    text-align: center;
+}
