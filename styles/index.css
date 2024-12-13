@@ -86,7 +86,7 @@ nav li{
     margin-bottom: 10px;
 }
 .profile-pic{
-    height: 400px;
+    height: 420px;
     width: 300px;
     border: none;
     box-shadow: 5px 5px 10px 5px rgb(204, 197, 197);
@@ -143,6 +143,7 @@ nav li{
 }
 .language-description{
     color: #757575 ;
+    
 }
 .resume-title{
     text-align: center;
