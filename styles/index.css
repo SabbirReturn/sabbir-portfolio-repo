@@ -36,7 +36,6 @@ nav>ul :hover{
     color:#FD6E0A ;
 }
 .primary-btn{
-    /* background-color:#FD6E0A ; */
     color: white;
     height: 50px;
     width: 150px;
@@ -44,10 +43,7 @@ nav>ul :hover{
     border-radius: 10px;
     padding: 10px 20px;
     font-size: 16px;
-    /* color: white; */
     background-color: #007bff;
-    /* border: none; */
-    /* border-radius: 5px; */
     transition: transform 0.3s ease;
     cursor: pointer;
 }
@@ -100,10 +96,6 @@ nav>ul :hover{
     margin-left: 10px;
     padding: 10px 20px;
     font-size: 16px;
-    /* color: white; */
-    /* background-color: #007bff; */
-    /* border: none; */
-    /* border-radius: 5px; */
     transition: transform 0.3s ease;
     cursor: pointer;
 }
@@ -127,12 +119,7 @@ nav>ul :hover{
     background-image: url('../assets/images/header_bg.png');
 
 }
-.details{
-    /* width: 1150px;
-    text-align: center;
-    background-color: #FFF8F3;
-    margin: 90px 190px 50px 190px;   */
-}
+
 .about{
     padding:70px 100px 70px 100px ;
     width: 1100px;
@@ -150,7 +137,6 @@ nav>ul :hover{
     padding:20px 100px 70px 100px ;
     width: 1100px;
     text-align: center;
-    /* background-color: #FFF8F3; */
     margin: 0px 90px 0px 90px; 
 }
 .using-language{
@@ -219,9 +205,17 @@ nav>ul :hover{
     height: 50px;
     width: 150px;
     color: white;
-    background-color: #FD6E0A;
     border: none;
     border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    border: none;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+.second-btn >button:hover{
+    transform: scale(1.1); /* Makes the button grow */
 }
 .footer-description{
     display: flex;
@@ -248,9 +242,16 @@ nav>ul :hover{
     width: 100px;
     border: none;
     border-radius: 10px;
-    background-color: #FD6E0A;
     color: white;
     margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+.submit-btn:hover{
+    transform: scale(1.1);
 }
 .text{
     height: 30px;
